@@ -28,10 +28,12 @@ I'm a second-year undergraduate student pursuing a degree in Software Engineerin
 
 ## Skills
 
-- **Languages:** JavaScript, Python, Java
-- **Technologies:** Next.js, Node.js, Git
-- **Databases:** MySQL 
-- **Other:** Familiar with Agile methodology, UI/UX design principles
+| Category      | Skills/Technologies                     |
+|---------------|-----------------------------------------|
+| **Languages**  | Python, JavaScript, Java                |
+| **Technologies** | Node.js, Git, Next.js                |
+| **Databases**  | MySQL, Firebase                        |
+| **Other**      | Familiar with Agile methodology, UI/UX design principles |
 
 ## Education
 
